@@ -1,0 +1,6 @@
+{
+  "name": "Guia Prático do Beijo | Sergio Oliveira",
+  "description": "O passo a passo para eliminar a timidez e conquistar qualquer mulher, em qualquer lugar! Guia prático e divertido do beijo por Sergio Oliveira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
